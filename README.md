@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chumaz1k
+- 👋 Hi, I’m chumazik
 
 
 <!---
